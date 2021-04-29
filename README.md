@@ -1,11 +1,11 @@
-## BigPhilCombo
+# BigPhilCombo
 
  🍁 Phil is a en experienced, enterprise-level developer & digital content producer based out of Aurora, Ontario, Canada. 🍁
 
 
 He is the proprietor of 🐠💡 [Fishbulb Productions](https://www.youtube.com/watch?v=gj3ps6LPtBw) 🐠💡 a multi-media studio that specializes in 3D development and live online broadcasting. 
 
-### Production Tools
+## Production Tools
  <br/>
 <p float="left">
 <img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/digitalocean.svg" width="42px" height="42px"/>
@@ -29,14 +29,14 @@ He is the proprietor of 🐠💡 [Fishbulb Productions](https://www.youtube.com/
 📺 [OBS Studio](https://github.com/obsproject/obs-studio) 📺
 
 
-### Hobbyist Tools
+## Hobbyist Tools
 
 
 🏎️ [FiveM/RedM - Cfx.re](https://github.com/citizenfx/fivem) 🏎️
 💬 [discord.js](https://github.com/discordjs/discord.js) 💬
 
 
-### Life or Something Like It
+## Life or Something Like It
 
 - [x] 🧗 Rock Climbing 🧗
 - [x] 🥋 Brazilian Jiu-Jitsu 🥋
