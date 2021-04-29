@@ -6,7 +6,7 @@
 He is the proprietor of 🐠💡 [Fishbulb Productions](https://www.youtube.com/watch?v=gj3ps6LPtBw) 🐠💡 a multi-media studio that specializes in 3D development and live online broadcasting. 
 
 ### Production Tools
- 
+ <br/>
 <p float="left">
 <img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/digitalocean.svg" width="42px" height="42px"/>
 <img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/vue.svg" width="42px" height="42px"/>
@@ -20,7 +20,6 @@ He is the proprietor of 🐠💡 [Fishbulb Productions](https://www.youtube.com/
 <img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/ubuntu.svg" width="42px" height="42px"/>
 <img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/nginx.svg" width="42px" height="42px"/>
 </p>
-<br/>
 <br/>
 
 🎮 [Unreal Engine](https://github.com/EpicGames) 🎮
