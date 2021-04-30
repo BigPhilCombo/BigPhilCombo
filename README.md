@@ -46,6 +46,7 @@ He is the proprietor of 🐠💡 [Fishbulb Productions](https://www.youtube.com/
 - [x] 🎸Guitar/Music 🎸
 - [x] 🕹️ Gaming 🕹️
 - [x] 🖨️ 3D Printing 🖨️ 
+- [x] 🤖 Robotics/Raspberry Pi 🤖 
 - [x] 🐈 Cat Owner 🐈 
 
 <br/>
