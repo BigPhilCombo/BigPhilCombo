@@ -32,7 +32,7 @@ He is the proprietor of 🐠💡 [Fishbulb Productions](https://www.youtube.com/
 ## Hobbyist Tools
 
 
-🏎️ [FiveM/RedM - Cfx.re](https://github.com/citizenfx/fivem) 🏎️
+🏎️ [FiveM/RedM - Cfx.re](https://github.com/citizenfx/fivem) 🏎️<br/>
 💬 [discord.js](https://github.com/discordjs/discord.js) 💬
 
 
@@ -54,9 +54,9 @@ He is the proprietor of 🐠💡 [Fishbulb Productions](https://www.youtube.com/
 
 <a href="https://discordapp.com/users/128354721969733632"><img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/discord.svg" width="42px" height="42px"/></a>
 
-### 🐠💡
-
 [![](http://fishbulb.ca/img/logo.png)](http://www.youtube.com/watch?v=gj3ps6LPtBw "Fishbulb Productions Demo Reel")
+
+### 🐠💡
 
 
 
