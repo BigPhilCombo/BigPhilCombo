@@ -1,6 +1,6 @@
 # BigPhilCombo
 
- 🍁 Phil is a en experienced, enterprise-level developer & digital content producer based out of Aurora, Ontario, Canada. 🍁
+ 🍁 Phil is a an experienced, enterprise-level developer & digital content producer based out of Aurora, Ontario, Canada. 🍁
 
 
 He is the proprietor of 🐠💡 [Fishbulb Productions](https://www.youtube.com/watch?v=gj3ps6LPtBw) 🐠💡 a multi-media studio that specializes in 3D development and live online broadcasting. 
